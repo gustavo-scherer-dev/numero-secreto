@@ -5,7 +5,7 @@
 // paragrafo.innerHTML = 'Escolha um número entre 1 e 10';
 
 let listaDeNumeros = [];
-let max = 100;
+let max = 1000;
 let numeroSecreto = gerarNumeroSecreto();
 let tentativas = 1;
 
